@@ -12,7 +12,10 @@ namespace SxDMVC.Controllers
         {
             return View();
         }
-
+        /// <summary>
+        /// 沙发发
+        /// </summary>
+        /// <returns></returns>
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
