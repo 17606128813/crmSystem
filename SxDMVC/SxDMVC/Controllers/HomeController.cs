@@ -13,7 +13,7 @@ namespace SxDMVC.Controllers
             return View();
         }
         /// <summary>
-        /// 沙发发
+        /// 沙发发呼哈
         /// </summary>
         /// <returns></returns>
         public ActionResult About()
