@@ -8,6 +8,10 @@ namespace SxDMVC.Controllers
 {
     public class DsxtDController : Controller
     {
+        /// <summary>
+        /// sfafa
+       /// </summary>
+       /// <returns></returns>
         // GET: DsxtD
         public ActionResult Index()
         {
