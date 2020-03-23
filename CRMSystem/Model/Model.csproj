@@ -42,6 +42,16 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Goods\GoodsInfo.cs" />
+    <Compile Include="LinkMan\DutyType.cs" />
+    <Compile Include="LinkMan\GradeType.cs" />
+    <Compile Include="LinkMan\LinkDetailInfo.cs" />
+    <Compile Include="LinkMan\LinkManInfo.cs" />
+    <Compile Include="Login\CRLogin.cs" />
+    <Compile Include="Manage\CityType.cs" />
+    <Compile Include="Manage\ManageInfo.cs" />
+    <Compile Include="Manage\MDElseInfo.cs" />
+    <Compile Include="Manage\MDetailInfo.cs" />
+    <Compile Include="Manage\RankType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User\UserInfo.cs" />
   </ItemGroup>
